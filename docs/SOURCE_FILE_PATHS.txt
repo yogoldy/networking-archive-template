@@ -1,0 +1,505 @@
+/Users/leogoldberg/Documents/School folders/Networking/cover-letters/Leo Goldberg Cover Letter JP Template.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/BMC Proof of Completion.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Bloomberg Market Concepts Certificate of Completion.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Grad Recruiting Imports/Bloomberg Market Concepts Certificate of Completion.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Grad Recruiting Imports/Cintra.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Grad Recruiting Imports/JPEG VERSIONS/Bloomberg Market Concepts Certificate of Completion.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Grad Recruiting Imports/JPEG VERSIONS/Wall Street Prep Excel Certification.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Grad Recruiting Imports/PDF/Bloomberg Market Concepts Certificate of Completion.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Grad Recruiting Imports/PDF/Wall Street Prep Excel Certificate of Completion (1).pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Grad Recruiting Imports/Wall Street Prep Excel Certificate of Completion.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Wall Street Prep Excel Certificate of Completion.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/certifications/Wall Street Prep Excel.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Activity - Tell me about yourself.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Behavior Interview Project.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Birkman Reflection - Leo Goldberg.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Birkman Results Finished.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Birkman Results.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Informational Interview Assignment Sheet 2.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Informational Interview Assignment Sheet.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company.html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/10866620988.html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/1158366444328389
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/124437594914419
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/670002392.html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/819789980.html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/831257135.html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/AppMeasurement.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/AppMeasurement.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/AppMeasurement_Module_ActivityMap.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/DataLayer.bdac42f8d55ecb2de070.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/NRJS-209506966f4b1a90574
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC021a392dac9347778099fa68daa25e6b-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC06a8cebfb2bb45d6b723eaa0e81aa66a-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC0b08866951d34c319ec809958c8630a6-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC2016f69b49794d298d36d18dd1c94237-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC2609f672cea24dc7a12025d686534f25-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC5c67307018d849e9ad5cce5d5a8f5b9b-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC5f53b67c2efd41cfa62fa61b4ce097db-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC88418c6f54f74959b48e4544daf5aa78-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RC989c8e71fa254e9fac09b3d2c2b26f05-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RCa494d103b6864be9a8f47caf1b9f0ffb-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RCa4de6d33586f48d5a57126513aaddfa6-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RCb16ccf30765d41b1b0972043724f2a26-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RCb22b803511e64680871e41f7b79be401-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RCc0325661d6bb491484e579aee4123acb-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RCda15a2d4fcff4b6da0e961c850b64d22-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/RCe2f54e1866da4cff9ac220cbd5118a45-source.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/TURRK-8ADJT-WDUC5-TC32E-KV9ND
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/VisitorAPI.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/app.259d64c593b1bb4a1253.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/careersfooterv1.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/dest5.html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/f(1).txt
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/f(2).txt
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/f(3).txt
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/f(4).txt
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/f.txt
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/fbevents.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/globalheaderv1.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/gtm.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/hotjar-416998.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/insight.beta.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/insight.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/js
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/js(1)
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/js(2)
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/js(3)
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/js(4)
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/launch-a400cfbb2fd3.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/mckinsey---company_owler_20190728_090718_original.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/modules.c64aa95271c86c62f7b0.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/munchkin(1).js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/munchkin.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/nr-spa-1216.min.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/otBannerSdk.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/otSDKStub.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/pixie.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/powered_by_logo.svg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/runtime.27bf0a2acb9117865933.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/saved_resource(1).html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/saved_resource(2).html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/saved_resource.html
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/shared.92c160232d68c6b275f1.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/styles-12bc84.css
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Jobs _ Careers _ McKinsey & Company_files/vendorv1.js.download
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Kami Export - Activity - Tell me about yourself.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Leo_Goldberg_CoverLetter.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Leo_Goldberg_CoverLetter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Linked in connection request proof.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/Maldonado BADM 301-857 Fall 2023 Syllabus.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/BADM 301/private/birkman id number.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/UAB/CryptoEconomy Midterm/IMG_1944.JPG
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/schedules/2024 Spring/Leo Schedule.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/coursework/schedules/historical-undated/Leo_G_Schedule.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/transcripts/Leo Goldberg - Unofficial Transcript.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/transcripts/Leo Goldberg Transcript.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/transcripts/Unofficial Transcript.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/transcripts/grad-recruiting/Leo Goldberg Transcript.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/education/transcripts/historical/Leo Goldberg Transcript OLD.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/BNP Paribas/BNP Notebook.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/BNP Paribas/Internship Personal Account Page.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/BNP Paribas/Summer Intern Certification Forms Complete.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/BNP Paribas/W4 Complete.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/BNP Paribas/_Summer_Intern_Certification_Forms.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/BNP Paribas/personal account page upload_1_1.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/Forte Capital Group/Ceros Pre-Hire Form - Leo Goldberg.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/Forte Capital Group/Ceros Pre-Hire Form 5-18-2023 (5).pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/employment/Forte Capital Group/Order Confirmation - Pass Perfect.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/1 Pre-Boot Camp Files/2017 Whole Foods Proxy Statement.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/1 Pre-Boot Camp Files/Adventis Boot Camp Packet 200526.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/1 Pre-Boot Camp Files/Adventis Financial Modeling Macros (for Macs) 251231.xlsm
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/1 Pre-Boot Camp Files/Adventis Financial Modeling Macros (for PCs) 251231.xlsm
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/1 Pre-Boot Camp Files/Resume Descriptions 180824.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/1 Pre-Boot Camp Files/Self-Paced Exercise 170927.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/1 Pre-Boot Camp Files/Self-Paced Exercise Instructions 170928.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air 2018 10-K Selected Pages 190425.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Equity Research 200524.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322 v.01.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322 v.02.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322 v.03.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322 v.04.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322 v.05.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322 v.06.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322 v.08.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322 v.09.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise 200322.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise v.10.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Exercise v9.5.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Financial Model MASTER 200322.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/2 Adventis Air Financial Modeling Exercise/Adventis Air Inputs 190423.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/3 PepsiCo Financial Modeling Exercise/PepsiCo 10-K Selected Pages 190418.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/3 PepsiCo Financial Modeling Exercise/Pepsico Exercise 200322.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/3 PepsiCo Financial Modeling Exercise/Pepsico Financial Model MASTER 200322.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/3 PepsiCo Financial Modeling Exercise/Pepsico Inputs 190422.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/Adventis Air Exercise v.10.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Adventis/Adventis_Boot_Camp_Materials.zip
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Barcelona English Teaching/IMG_2447.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/Barcelona English Teaching/Screenshot 2026-01-06 at 2.03.13 PM.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/2448bc5d89aa475d94241cbeb22c2fe2.webp
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Behavioral Interview Proof.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Caroline Speck LinkedIn Request.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Case Comp/BfE NMO Case Competition.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Cover Letter Template.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Diego Sosa LinkedIn Request.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/AEPI Banner for LinkedIn.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/GCC Workshop Notes.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/GCC case prep/httpswww.rocketblocks.meblogprofita.txt
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/IMG_0771.HEIC
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/IMG_0772.HEIC
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/IMG_0773.HEIC
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/IMG_0774.HEIC
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/IMG_1641.heic
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/Photo.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/GCC Workshop/Updated Linked In Profile Pic.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Getting a Top Management Consulting Job from USC_ The Definitive.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Hans Andrian LinkedIn Request.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Hans Questions - Google Docs.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Informational Interview Notes.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Jessica Layton Questions - Google Docs.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/LEO Treasurer Script 2.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Leah Mangano LinkedIn Request.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Leo_Goldberg_CoverLetter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/LinkedIn Message Request Proof - Leo Goldberg.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Maximizing My Time in College.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Maximizing Your Time in College.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Maximizing Your Time in College.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Meeting 1 Slides.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Onboarding Rules and Expecations.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Pic of Onbaording Class & Exec.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Poorva Questions - Google Docs.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Proof of Interview Completion/Aaron invite.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Proof of Interview Completion/Behavioral and Case Interview Proof.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Proof of Interview Completion/Taahera  invite.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Proof of Interview Completion/Taahera thank you.PNG
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Proof of Interview Completion/thank you letter - aaron.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Reviewed Resume Notes GCC.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Screenshot 2023-11-02 122537.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Su Bin Park LinkedIn Request.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Team Penta Slide Deck.pptx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/Tyler Beetle LinkedIn Request.png
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/fish.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/leadership-volunteering/organizations/GCC/maximizing my time in college.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/other/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/evidence/other/Beach Headshot.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/other/Darla Headshot.JPG
+/Users/leogoldberg/Documents/School folders/Networking/evidence/other/Email Signature.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/other/download.jpg
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/APA Corp DCF.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/APA Corporation NasdaqGS APA Financials Income Statement.xls
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/Carolina Fund NAV/Carnival Cruises-P1.pptx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/Carolina Fund Stock Pitch.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/DCF 2.xls
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/DCF Not Corrupted.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/DCF.xls
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/DCF.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/F9745C40
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/HSY/HSY Stock Pitch Final.pptx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/HSY/The Hershey Company NYSE HSY Financials.xls
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/Kimco/CFI-Football-Field-Chart-Template.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/Kimco/DCF KIMCO.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/Kimco/Kimco Realty Corporation NYSE KIM Financials (version 1).xlsx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/Kimco/Kimco Realty Corporation NYSE KIM Financials.xls
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/Carolina Fund Stock Pitch/The Hershey Company NYSE HSY Financials Income Statement.xls
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/VRC Portfolio Analysis/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/investment-projects/VRC Portfolio Analysis/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/evidence/portfolio/technical-training/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/applications/recruiting-applications/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/Citi/400-Finance-Questions.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/Citi/MICROSOFT_20240426_0401.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/Citi/SMBC%20SD%20Prep.pdf.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/Citi/Wall Stret Prep Guide FIG Q&A.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/Citi/Yuna Networking Call.m4a
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/role-interest-statements/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/role-interest-statements/Sales and Trading/Leo Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/interview-prep/role-interest-statements/Sales and Trading/Leo Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Amex/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Amex/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Axiom Bus. Devlop./Leo_Goldberg_Axiom_Cover_Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/BNP/Interview DOc.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/BNP/Interview Questions.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/BNP/Role Description.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/CIBC/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/CIBC/Equity Derivative Sales Role Des. .pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/CIBC/Equity Derivative Sales/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/CIBC/Equity Derivative Sales/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/CIBC/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/CIBC/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/CIBC/Loan Syndication/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Cintra/Leo Golberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Cintra/Leo Golberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/DHI Mortgage/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/DHI Mortgage/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/DTCC/DTCC.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/DTCC/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/DTCC/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Fitch Ratings/DTCC Stress Testing & Liquidity Analyst.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Fitch Ratings/Fitch Corp CreditSights Program.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Fitch Ratings/Leo Goldberg Cover Letter CreditSights.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Fitch Ratings/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Fitch Ratings/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/2026 April - Financial Advisor Development Program - Tampa | UBS Job Board for Graduates.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Ardian Primaries & Secondaries Analyst.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Associate Analyst Program, Fitch Ratings, New York - July 2026 _ Fitch Ratings _ LinkedIn.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Axiom business development.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/BMO Credit Analyst.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Capital Markets Research JLL.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Cintra.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Corporate Banking Citi.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Corporate Banking Relationship Manager - Analyst at Santander Holdings USA Inc.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/DB/DB Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/DB/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/DB/Leo_Goldberg_Cover_Letter_DeutscheBank.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Deutsche Bank | Deutsche Bank Graduate Program – Private Bank – Wealth Management – New York – 2026Y.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Fitch Rating Analyst Program.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/AMEX Debit Payments Consulting.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/BMO Corp Banking Finance.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/CIBC Corporate Banking.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/DHI Mortgage Capital Markets Junior Trader.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/Financial Analyst Raymond James.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/Fund Finance SMBC.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/Global Markets Analyst RBC.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/MS High Yield Research.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/RBC Capital Markets.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/SMBC Fund Finance.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Job Descriptions/Scotia Bank Derivative Product Group Analyst specialist.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/KKR (Global Atlantic) Institutional Markets.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/KKR Institutional Markets.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Marsh McLennan Insurance -- Tax Optimizaiton M&A/Insurance Associate - Yacht Division _ Marsh McLennan Agency _ LinkedIn.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/NYU Investment Analysis.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Point 72 Markets.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Raymond James Structured Products.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/SMBC All Desks Overview.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/SMBC | 2026 Analyst Program – Debt Capital MarketsYello Enterprise.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Santander FX Corp sales analyst.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Scotia bank corp bank analyst.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Sony Music - The Orchard.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/VRC Portfolio Valuation.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/Voya Entry Level Asset Aanalyst.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/General Apps Full Details/santander corp banking .pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Goldman Sachs/Global Banking and Markets FICC and Equities/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/JPMC/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/JPMC/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/JPMorgan/Capital Markets Graduate Analyst Program/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/KKR/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/KKR/Cover Lettah/Goldberg,Leo.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/KKR/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/KKR/Leo_Goldberg_KKR_DCM_Cover_Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/KKR/Resume/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/MUFG/Description Growth and Middle market banking.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Manhattan Associates/Interviw Prep Behaviorals.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Manhattan Associates/Leo_Interview_Prep_Behaviorals.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Manhattan Associates/Manhattan Associates Virtual Interviewing (Interviewee Tips).docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Manhattan Associates/Role Description - Workday.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Manhattan Associates/Services Consultant Job Description.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Manhattan Associates/Techincals Practice.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Masa/4 days a week elementary school.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Peer Tutor Cover Letter/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Peer Tutor Cover Letter/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Peer Tutor Cover Letter/Leo Goldberg References.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/RBC/Global Markets Analyst/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/RBC/Global Markets Analyst/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/RBC/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/RBC/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/SMBC/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/SMBC/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/Corp Acess Global Banking & Markets/(14) Analyst, US Corporate Access, Global Banking & Markets - New York, New York _ Scotiabank _ LinkedIn.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/Cover Letters/Santander/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/Cover Letters/Santander/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/Leo Goldberg Resume copy.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/Leo Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/ScotiaBank/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Sony Music Industry - The Orchard Label/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Sony Music Industry - The Orchard Label/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Structured Owl Credit/Blue Owl Capital/Leo Goldberg.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Structured Owl Credit/Leo Goldberg Cover Letter 2.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Structured Owl Credit/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Structured Owl Credit/Peer Tutoring Role.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Structured Owl Credit/Sturcutred Credit Analyst Description.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/US Bank/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/US Bank/Leo_Goldberg_Cover_Letter_USBank.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/Valet/Valet Offer LEtter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/2026-graduate/general-writing-review/AI Detector - Trusted AI Checker for ChatGPT, GPT5 & Gemini.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Deutsche Bank/DB Achieve Essay Draft 3.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Deutsche Bank/screenshots/Screenshot 2023-11-28 172413.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Deutsche Bank/screenshots/Screenshot 2023-11-28 172534.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Deutsche Bank/screenshots/Screenshot 2023-11-28 172620.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Finance Friday Panelists.HEIC
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Amerant/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Amerant/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Barclays/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Barclays/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Citi Cover Letter/Leo Goldberg Cover Letter New.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Citi Cover Letter/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Citi Cover Letter/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/2025 Capital Markets/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/2025 Capital Markets/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/2025 Corporate Finance Capital Markets/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/2025 Corporate Finance/Leo Goldberg Cover Letter Corporate Finance 2025.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/2025 Corporate Finance/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/DB Achieve FIC Cover Letter/Leo Goldberg Cover Letter 1.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/DB Achieve FIC Cover Letter/Leo Goldberg Cover Letter Corporate Finance.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/DB Achieve FIC Cover Letter/Leo Goldberg Cover Letter Fixed Income.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/DB Achieve FIC Cover Letter/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/DB Summer 2025 IB/Leo Goldberg Cover Letter Corporate Finance.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/DB Summer 2025 IB/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/Db AChieve Essay/DB Achieve Cover Letter Draft 1.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/Db AChieve Essay/DB Achieve Diversity Essay.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/Db Achieve IB Cover Letter/Leo Goldberg Cover Letter Corporate Finance SG Edits.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/Db Achieve IB Cover Letter/Leo Goldberg Cover Letter Corporate Finance.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/Db Achieve IB Cover Letter/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Deutsche/Db Achieve Wealth Mgmt Cover Letter/Wealth Management Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Goldman Sachs/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Goldman Sachs/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Houlihan Lokey/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Houlihan Lokey/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/JP Morgan MMBSI/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/JP Morgan MMBSI/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Jefferies/Jefferies Class of 2026 NY Diversity Symposium/Leo Goldberg Personal Statement.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/KPMG/KPMG paragraph.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/KPMG/Leo Goldberg Statement.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Loop Capital/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Loop Capital/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Piper Sandler/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Piper Sandler/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Raymond James/Leo Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/GAM-and-cover-letters/Raymond James/Leo Goldberg Cover Letter.pdf
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Goldman Sachs/Screenshot 2024-01-30 163937.png
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Axiom Bus. Devlop./.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/BNP/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/CIBC/Equity Derivative Sales/~$o Goldberg Cover Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Certifications/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Fitch Ratings/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/General Apps Full Details/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/KKR/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Manhattan Associates/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/RBC/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/BayFirst/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/BayFirst/New/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/BayFirst/~$o Goldberg Resume .docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/S&T/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/S&T/Asset Management : Structured Credit/~$o Goldberg Resume New York.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/S&T/Location Agnostic/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/S&T/New York/~$o Goldberg Resume Florida.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Resume/~$o Goldberg Resume Chat
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Structured Owl Credit/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/Structured Owl Credit/~$o Goldberg Cover Letter 2.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/~$Master Applications.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Grad Recruiting/~$Master Netoworking.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/Oz Letter.docx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/trackers/Master Applications.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/trackers/Master Netoworking.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/trackers/Master Recruiting.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/trackers/Networking Spreadsheet Icloud Drive.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/trackers/Networking Spreadsheet.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/old/misc/legacy-unclassified/trackers/templates/Networking Spreadsheet Template.xlsx
+/Users/leogoldberg/Documents/School folders/Networking/outreach/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/resumes/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/resumes/current/.DS_Store
+/Users/leogoldberg/Documents/School folders/Networking/resumes/current/fp&a/docx/Leo Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/current/fp&a/pdf/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/current/~$o Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/general/docx/Leo Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/general/pdf/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Banking : Finance /Leo Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Banking : Finance /Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/BayFirst/New/Leo Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/BayFirst/New/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/BayFirst/New/Pyschology Today Profile Recomendation.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/BayFirst/Old/Leo Goldberg Resume (claude).docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/BayFirst/Old/Leo Goldberg Resume (updated bullets).docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/BayFirst/Old/Leo Goldberg Resume (updated).docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/BayFirst/Old/Leo Goldberg Resume .docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Consulting/Leo Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Consulting/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Consulting/Resume General.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Leo Goldberg Resume Chat
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Leo Goldberg Resume Chat 2
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume (old b ut good) .pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume 19 Back Up.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume 20.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume 21.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume 22.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume 23.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume 23.txt
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume 24.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume Final Hopefully.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume Final Hopefully.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume Updated.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume Wrapped fixed bullets.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume Wrapped.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume Wrapped.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume copy.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/Other/_MConverter.eu_Leo Goldberg Resume 23.json
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/S&T/Asset Management : Structured Credit/Finance S&T Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/S&T/Asset Management : Structured Credit/Leo Goldberg Resume.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/S&T/Asset Management : Structured Credit/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/S&T/Florida/Leo Goldberg Resume Florida.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/S&T/Florida/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/S&T/Location Agnostic/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/S&T/New York/Leo Goldberg Resume New York.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/S&T/New York/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/root-imports/Leo Goldberg Resume New York 2.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/root-imports/Leo Goldberg Resume New York.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/grad-recruiting/root-imports/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Alexis McConomy Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Cover Letter Template YT.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Finance Scholars Template.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Jess Layton Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Kameron Little.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Resume Template Fall 2021.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Resume+Template+(with+Mark-up) (1).docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Resume+Template+(with+Mark-up).docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/GCC Template/Scholars Template 2.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume (1).pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 10.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 11.5.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 11.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 12.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 15.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 16 - Pre Internship.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 4.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 5.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 7.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/PDF Versions/Leo Goldberg Resume 8.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Renamed Versions for Submissions/Leo Goldberg Resume Pre-BNP.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Renamed Versions for Submissions/Leo Goldberg Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 10.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 11.5.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 11.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 12.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 13.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 14.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 15.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 16.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 17.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 18.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 19.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 4.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 5.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 6.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 7.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 8 - draft.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo Goldberg Resume 9.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/Word Docx Versions/Leo_Goldberg_Resume 3.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/root-imports/Leo_Goldberg_Resume No HyperLink.docx
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/root-imports/Leo_Goldberg_Resume OLD.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/root-imports/Leo_Goldberg_Resume.pdf
+/Users/leogoldberg/Documents/School folders/Networking/resumes/old/legacy-version-library/root-imports/Leo_Goldberg_Resume2 Old.pdf

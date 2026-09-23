@@ -1,0 +1,78 @@
+scope_type	current_path	proposed_path	disposition	confidence	rationale
+subtree	Adventis/	experience-and-portfolio/technical-training/Adventis/	move-as-bundle	high	Financial-modeling training materials belong together.
+subtree	BADM 301/	education-and-leadership/coursework/BADM 301/	move-as-bundle	high	Course assignments and supporting materials.
+subtree	BNP Internship/	experience-and-portfolio/employers/BNP Paribas/	move-as-bundle	high	Employer/internship records rather than recruiting submissions.
+subtree	Ben Resume/	reference-materials/resume-examples/Ben Resume/	move-as-bundle	medium	Appears to be another person's resume used as reference; content review required.
+subtree	Carolina Fund Stock Pitch/	experience-and-portfolio/investment-projects/Carolina Fund Stock Pitch/	move-as-bundle	high	Investment-project evidence and working files.
+subtree	Chase Mentor-Mentee/	outreach/contacts-and-introductions/Chase Mentor-Mentee/	move-as-bundle	medium	Relationship/mentorship context appears controlling; verify before move.
+subtree	Citi Interview Prep/	recruiting/interview-prep/Citi/	move-as-bundle	high	Interview preparation and recording.
+subtree	DB Screenshots/	recruiting/applications/legacy-undergraduate/Deutsche Bank/screenshots/	move-as-bundle	medium	Likely application evidence; exact program should remain unresolved.
+subtree	Forte Capital Group/	experience-and-portfolio/employers/Forte Capital Group/	move-as-bundle	high	Employer/internship documentation.
+subtree	GAM & CL/	recruiting/applications/legacy-undergraduate/GAM-and-cover-letters/	split-by-override	medium	Application-cycle collection; preserve company bundles and review generic guidance separately.
+subtree	GAM & CL/Cover Letter Tips/	reference-materials/career-guides/Cover Letter Tips/	move-as-bundle	high	Reusable guidance, not one application.
+subtree	GCC/	education-and-leadership/organizations/GCC/	move-as-bundle	high	Organization/program materials.
+subtree	GCC WORKSHOP/	education-and-leadership/organizations/GCC Workshop/	move-as-bundle	high	Workshop and organization materials.
+subtree	GOldman/	recruiting/applications/legacy-undergraduate/Goldman Sachs/	move-as-bundle	medium	Likely Goldman application evidence; retain original filename.
+subtree	Grad Recruiting/	recruiting/applications/2026-graduate/	split-by-override	medium	Most content is graduate recruiting, with functional exceptions below.
+subtree	Grad Recruiting/Certifications/	career-core/certifications/Grad Recruiting Imports/	move-as-bundle	high	Reusable credentials belong in career core.
+subtree	Grad Recruiting/Resume/	career-core/resumes/grad-recruiting/	move-as-bundle	high	Reusable resume-version area.
+subtree	Grad Recruiting/Tell Me About Yourself Drafts/	recruiting/interview-prep/Tell Me About Yourself/	move-as-bundle	high	Reusable interview preparation.
+subtree	Grad Recruiting/Zev Scherl/	outreach/contacts-and-introductions/Zev Scherl/	move-as-bundle	high	Connector-specific relationship material.
+subtree	Grad Recruiting/vrc portfolio analysis/	experience-and-portfolio/investment-projects/VRC Portfolio Analysis/	move-as-bundle	high	Portfolio/investment analysis rather than an application.
+file	Grad Recruiting/Master Applications.xlsx	recruiting/trackers/Master Applications.xlsx	proposed-move	high	Candidate application tracker; authority remains unresolved.
+file	Grad Recruiting/Master Netoworking.xlsx	recruiting/trackers/Master Netoworking.xlsx	proposed-move	high	Candidate networking tracker; preserve original spelling in first move.
+file	Grad Recruiting/Master Recruiting.xlsx	recruiting/trackers/Master Recruiting.xlsx	proposed-move	high	Candidate combined tracker; authority remains unresolved.
+file	Grad Recruiting/~$Master Applications.xlsx	legacy-unclassified/system-metadata/Grad Recruiting/~$Master Applications.xlsx	hold-for-review	high	Office lock/temporary file; do not delete without separate authorization.
+file	Grad Recruiting/~$Master Netoworking.xlsx	legacy-unclassified/system-metadata/Grad Recruiting/~$Master Netoworking.xlsx	hold-for-review	high	Office lock/temporary file; do not delete without separate authorization.
+file	Grad Recruiting/AI Detector - Trusted AI Checker for ChatGPT, GPT5 & Gemini.png	recruiting/applications/2026-graduate/general-writing-review/AI Detector - Trusted AI Checker for ChatGPT, GPT5 & Gemini.png	proposed-move	high	Screenshot documents an AI-detector review of application-style writing based on Forte Capital experience.
+file	Grad Recruiting/BNP Notebook.pdf	experience-and-portfolio/employers/BNP Paribas/BNP Notebook.pdf	proposed-move	medium	Likely internship/employer notes; inspect before physical move.
+file	Grad Recruiting/Bloomberg Market Concepts Certificate of Completion.jpg	career-core/certifications/Bloomberg Market Concepts Certificate of Completion.jpg	proposed-move	high	Reusable certification evidence.
+file	Grad Recruiting/DTCC.pdf	recruiting/applications/2026-graduate/DTCC/DTCC.pdf	proposed-move	medium	Likely DTCC opportunity-specific material.
+file	Grad Recruiting/IMG_2447.png	experience-and-portfolio/volunteering/Barcelona English Teaching/IMG_2447.png	proposed-move	high	Photo shows Leo volunteering with elementary-school English learners during study abroad.
+file	Grad Recruiting/Leo Goldberg - Unofficial Transcript.pdf	career-core/transcripts/Leo Goldberg - Unofficial Transcript.pdf	proposed-move	high	Reusable transcript evidence.
+file	Grad Recruiting/Leo Goldberg Cover Letter.docx	recruiting/applications/2026-graduate/CIBC/Loan Syndication/Leo Goldberg Cover Letter.docx	proposed-move	high	Content identifies CIBC US Analyst/Associate, Loan Syndication.
+file	Grad Recruiting/Leo Goldberg Cover Letter.pdf	recruiting/applications/2026-graduate/Goldman Sachs/Global Banking and Markets FICC and Equities/Leo Goldberg Cover Letter.pdf	proposed-move	high	Content identifies the Goldman Sachs New Analyst Program in Global Banking and Markets FICC and Equities.
+file	Grad Recruiting/Leo Goldberg Resume New York 2.docx	career-core/resumes/grad-recruiting/root-imports/Leo Goldberg Resume New York 2.docx	proposed-move	medium	Reusable resume version; audience and authority unresolved.
+file	Grad Recruiting/Leo Goldberg Resume New York.docx	career-core/resumes/grad-recruiting/root-imports/Leo Goldberg Resume New York.docx	proposed-move	medium	Reusable resume version; audience and authority unresolved.
+file	Grad Recruiting/Leo Goldberg Resume.pdf	career-core/resumes/grad-recruiting/root-imports/Leo Goldberg Resume.pdf	proposed-move	medium	Reusable resume version; audience and authority unresolved.
+file	Grad Recruiting/Leo Goldberg Transcript.pdf	career-core/transcripts/grad-recruiting/Leo Goldberg Transcript.pdf	proposed-move	medium	Reusable transcript candidate; currency unresolved. Separate path preserves provenance from the root copy.
+file	Grad Recruiting/Leo Letter.docx	recruiting/interview-prep/role-interest-statements/Sales and Trading/Leo Letter.docx	proposed-move	high	Narrative explains Leo's interest in the sales side of Sales and Trading; no specific employer or submission is named.
+file	Grad Recruiting/Leo Letter.pdf	recruiting/interview-prep/role-interest-statements/Sales and Trading/Leo Letter.pdf	proposed-move	high	PDF counterpart of the Sales and Trading role-interest narrative.
+file	Grad Recruiting/Leo_Goldberg_Cover_Letter_USBank.docx	recruiting/applications/2026-graduate/US Bank/Leo_Goldberg_Cover_Letter_USBank.docx	proposed-move	high	Opportunity-specific cover letter.
+file	Grad Recruiting/Personal Statement Sophia.pdf	reference-materials/personal-statement-examples/Personal Statement Sophia.pdf	proposed-move	high	Two-page Finance Scholars personal-statement example belonging to Sophia McCoy; reference material, not Leo's statement.
+file	Grad Recruiting/Screenshot 2026-01-06 at 2.03.13 PM.png	experience-and-portfolio/volunteering/Barcelona English Teaching/Screenshot 2026-01-06 at 2.03.13 PM.png	proposed-move	high	Photo shows farewell and thank-you messages from Leo's English students.
+file	Grad Recruiting/Screenshot 2026-01-06 at 4.21.03 PM.png	outreach/contacts-and-introductions/DTCC/Screenshot 2026-01-06 at 4.21.03 PM.png	proposed-move	high	Screenshot records a DTCC talent-acquisition contact's LinkedIn experience.
+file	Grad Recruiting/Unofficial Transcript.pdf	career-core/transcripts/Unofficial Transcript.pdf	proposed-move	medium	Reusable transcript candidate; identity and currency require review.
+file	Grad Recruiting/Valet Offer LEtter.pdf	recruiting/applications/2026-graduate/Valet/Valet Offer LEtter.pdf	proposed-move	medium	Offer/application record; exact employer context requires review.
+file	Grad Recruiting/Wall Street Prep Excel Certificate of Completion.pdf	career-core/certifications/Wall Street Prep Excel Certificate of Completion.pdf	proposed-move	high	Reusable certification evidence.
+file	Grad Recruiting/Wall Street Prep Excel.jpg	career-core/certifications/Wall Street Prep Excel.jpg	proposed-move	high	Certification image/supporting evidence.
+subtree	Printed Applications/	recruiting/applications/printed-submissions/	move-as-bundle	high	Printed application records.
+subtree	Resume/	career-core/resumes/legacy-version-library/	move-as-bundle	high	Historical resume versions and submission copies.
+subtree	untitled folder/	legacy-unclassified/needs-review/untitled folder/	hold-for-review	high	Ambiguous folder; currently contains no inventoried source file.
+file	.DS_Store	legacy-unclassified/system-metadata/root/.DS_Store	hold-for-review	high	Finder metadata; limited evidentiary value.
+file	BMC Proof of Completion.pdf	career-core/certifications/BMC Proof of Completion.pdf	proposed-move	high	Reusable certification evidence.
+file	Beach Headshot.jpg	career-core/profile-assets/Beach Headshot.jpg	proposed-move	high	Professional/profile image candidate.
+file	DB Achieve Essay Draft 3.docx	recruiting/applications/legacy-undergraduate/Deutsche Bank/DB Achieve Essay Draft 3.docx	proposed-move	high	Opportunity-specific application essay.
+file	Darla Headshot.JPG	career-core/profile-assets/Darla Headshot.JPG	proposed-move	high	Professional/profile image candidate.
+file	Email Signature.docx	career-core/profile-assets/Email Signature.docx	proposed-move	high	Reusable professional identity asset.
+file	Finance Friday Panelists.HEIC	outreach/events/Finance Friday/Finance Friday Panelists.HEIC	proposed-move	medium	Likely event/networking evidence; inspect before move.
+file	Finance Resume Sample.doc	reference-materials/resume-examples/Finance Resume Sample.doc	proposed-move	high	Reference resume, not Leo's authoritative resume.
+file	IMG_1944.JPG	education-and-leadership/coursework/UAB/CryptoEconomy Midterm/IMG_1944.JPG	proposed-move	high	Photo shows the UAB CryptoEconomy midterm reflection assignment.
+file	Leo Goldberg Cover Letter JP Template.docx	career-core/cover-letter-templates/Leo Goldberg Cover Letter JP Template.docx	proposed-move	high	Reusable template by filename.
+file	Leo Goldberg Cover Letter.pdf	recruiting/applications/2026-graduate/JPMorgan/Capital Markets Graduate Analyst Program/Leo Goldberg Cover Letter.pdf	proposed-move	high	Content identifies JPMorgan's Markets Capital Markets Graduate Analyst Program.
+file	Leo Goldberg Transcript OLD.pdf	career-core/transcripts/historical/Leo Goldberg Transcript OLD.pdf	proposed-move	high	Historical transcript; preserve OLD label.
+file	Leo Goldberg Transcript.pdf	career-core/transcripts/Leo Goldberg Transcript.pdf	proposed-move	medium	Transcript candidate; authority/currentness still requires review.
+file	Leo Schedule.png	education-and-leadership/coursework/schedules/2024 Spring/Leo Schedule.png	proposed-move	high	Calendar screenshot shows the week of 2024-01-15 and course codes.
+file	Leo_G_Schedule.png	education-and-leadership/coursework/schedules/historical-undated/Leo_G_Schedule.png	proposed-move	medium	Course schedule is clearly academic, but its term is not visible.
+file	Leo_Goldberg_Resume No HyperLink.docx	career-core/resumes/legacy-version-library/root-imports/Leo_Goldberg_Resume No HyperLink.docx	proposed-move	medium	Resume version; audience and authority unresolved.
+file	Leo_Goldberg_Resume OLD.pdf	career-core/resumes/legacy-version-library/root-imports/Leo_Goldberg_Resume OLD.pdf	proposed-move	high	Explicit historical resume.
+file	Leo_Goldberg_Resume.pdf	career-core/resumes/legacy-version-library/root-imports/Leo_Goldberg_Resume.pdf	proposed-move	medium	Resume version; audience and authority unresolved.
+file	Leo_Goldberg_Resume2 Old.pdf	career-core/resumes/legacy-version-library/root-imports/Leo_Goldberg_Resume2 Old.pdf	proposed-move	high	Explicit historical resume.
+file	Maximizing My Time in College.png	education-and-leadership/organizations/GCC/Maximizing My Time in College.png	proposed-move	medium	Likely GCC-related presentation artifact; verify visually before move.
+file	Networking Spreadsheet Icloud Drive.xlsx	recruiting/trackers/Networking Spreadsheet Icloud Drive.xlsx	proposed-move	high	Candidate networking tracker; authority unresolved.
+file	Networking Spreadsheet Template.xlsx	recruiting/trackers/templates/Networking Spreadsheet Template.xlsx	proposed-move	high	Tracker template.
+file	Networking Spreadsheet.xlsx	recruiting/trackers/Networking Spreadsheet.xlsx	proposed-move	high	Candidate networking tracker; authority unresolved.
+file	Oz Letter.docx	recruiting/applications/academic-roles/USC FINA 363 TA/Oz Letter.docx	proposed-move	high	Email-style application for a FINA 363 teaching-assistant position addressed to Professor Oz.
+file	birkman id number.png	education-and-leadership/coursework/BADM 301/private/birkman id number.png	proposed-move	high	Screenshot records completion of the course-required Birkman questionnaire and exposes a private ID; keep access limited.
+file	download.jpg	career-core/profile-assets/school/download.jpg	proposed-move	medium	Image shows the Darla Moore School building; generic filename should be preserved during the first move.
+file	leo - Personal - Shortcut.lnk	legacy-unclassified/system-metadata/leo - Personal - Shortcut.lnk	metadata-quarantine	high	Windows shortcut points to a personal OneDrive directory and is not primary career evidence.
